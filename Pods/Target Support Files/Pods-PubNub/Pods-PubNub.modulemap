@@ -1,0 +1,6 @@
+framework module PubNub {
+  umbrella header "Pods-PubNub-umbrella.h"
+
+  export *
+  module * { export * }
+}
